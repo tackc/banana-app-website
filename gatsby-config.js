@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Banana App Website",
+    siteUrl: "https://bananaapp.org",
   },
   plugins: [
     "gatsby-plugin-sass",
